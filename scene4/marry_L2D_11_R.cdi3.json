@@ -1,0 +1,310 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup4",
+			"Name": "镜头大小"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup4",
+			"Name": "位置左右"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup4",
+			"Name": "位置下上"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup",
+			"Name": "眼珠 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup",
+			"Name": "眼珠 Y"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup",
+			"Name": "嘴　变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup",
+			"Name": "嘴　张开和闭合"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup",
+			"Name": "脸颊泛红"
+		},
+		{
+			"Id": "Param22gg",
+			"GroupId": "ParamGroup",
+			"Name": "gg"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup",
+			"Name": "嘴1"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup",
+			"Name": "嘴2"
+		},
+		{
+			"Id": "ParamMosaic",
+			"GroupId": "ParamGroup",
+			"Name": "马赛克"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup2",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup2",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup2",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup2",
+			"Name": "腿开合"
+		},
+		{
+			"Id": "Paramnv2",
+			"GroupId": "ParamGroup2",
+			"Name": "女动作（下）"
+		},
+		{
+			"Id": "Paramnan",
+			"GroupId": "ParamGroup2",
+			"Name": "男胯"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup2",
+			"Name": "关b透明度"
+		},
+		{
+			"Id": "Parambqie",
+			"GroupId": "ParamGroup2",
+			"Name": "关b张开"
+		},
+		{
+			"Id": "Paramnv",
+			"GroupId": "ParamGroup3",
+			"Name": "女动作（上）"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup3",
+			"Name": "胸1"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup3",
+			"Name": "胸2"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup3",
+			"Name": "胸3"
+		},
+		{
+			"Id": "ParamshentiY",
+			"GroupId": "ParamGroup3",
+			"Name": "y"
+		},
+		{
+			"Id": "Paramtuizi1",
+			"GroupId": "ParamGroup3",
+			"Name": "腿子1"
+		},
+		{
+			"Id": "Paramtuizi2",
+			"GroupId": "ParamGroup3",
+			"Name": "腿子2"
+		},
+		{
+			"Id": "Paramtuizi3",
+			"GroupId": "ParamGroup3",
+			"Name": "腿子3"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup3",
+			"Name": "小腿"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup3",
+			"Name": "tf1"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup3",
+			"Name": "tf2"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup3",
+			"Name": "tf3"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup3",
+			"Name": "tf4"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup5",
+			"Name": "汗1"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup5",
+			"Name": "jy1"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup5",
+			"Name": "jy2"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup5",
+			"Name": "jy3"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup5",
+			"Name": "jyd"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "镜头"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "表情"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "动作"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "物理"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "体液"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "tf"
+		},
+		{
+			"Id": "Part2",
+			"Name": "表情1"
+		},
+		{
+			"Id": "Part10",
+			"Name": "表情3"
+		},
+		{
+			"Id": "Part14",
+			"Name": "頭"
+		},
+		{
+			"Id": "Part15",
+			"Name": "胸"
+		},
+		{
+			"Id": "Part16",
+			"Name": "液體"
+		},
+		{
+			"Id": "Part17",
+			"Name": "插入"
+		},
+		{
+			"Id": "Part18",
+			"Name": "資料夾 5"
+		},
+		{
+			"Id": "Part19",
+			"Name": "左腳"
+		},
+		{
+			"Id": "Part20",
+			"Name": "右腳"
+		},
+		{
+			"Id": "Part21",
+			"Name": "身體"
+		},
+		{
+			"Id": "Part22",
+			"Name": "後面頭髮"
+		},
+		{
+			"Id": "Part23",
+			"Name": "右手"
+		},
+		{
+			"Id": "Part24",
+			"Name": "左手"
+		},
+		{
+			"Id": "Part25",
+			"Name": "男"
+		},
+		{
+			"Id": "Part3",
+			"Name": "右眼"
+		},
+		{
+			"Id": "Part4",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part5",
+			"Name": "嘴"
+		},
+		{
+			"Id": "Part13",
+			"Name": "嘴 的複製 4"
+		}
+	]
+}

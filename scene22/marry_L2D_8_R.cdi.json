@@ -1,0 +1,408 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamMosaic",
+			"GroupId": "",
+			"Name": "Mosaic"
+		},
+		{
+			"Id": "Param37",
+			"GroupId": "ParamGroup6",
+			"Name": "b切换"
+		},
+		{
+			"Id": "Param55",
+			"GroupId": "ParamGroup6",
+			"Name": "inside taler switch"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup2",
+			"Name": "镜头大小"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup2",
+			"Name": "左右"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup2",
+			"Name": "上下"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup4",
+			"Name": "gg"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup4",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup4",
+			"Name": "eye<>"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup4",
+			"Name": "eye^^"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup4",
+			"Name": "eyebrows 1"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup4",
+			"Name": "eyebrows 2"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "ParamGroup4",
+			"Name": "mouth ^^"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup4",
+			"Name": "mouth <>"
+		},
+		{
+			"Id": "Param40",
+			"GroupId": "ParamGroup4",
+			"Name": "tongue"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "ParamGroup4",
+			"Name": "blush"
+		},
+		{
+			"Id": "Param49",
+			"GroupId": "ParamGroup4",
+			"Name": "breathing 1.1"
+		},
+		{
+			"Id": "Param50",
+			"GroupId": "ParamGroup4",
+			"Name": "breathing 1.2"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup",
+			"Name": "男整体"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup",
+			"Name": "男胯"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup",
+			"Name": "j"
+		},
+		{
+			"Id": "Param38",
+			"GroupId": "ParamGroup",
+			"Name": "j2"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup",
+			"Name": "dd"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup",
+			"Name": "男手臂"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup",
+			"Name": "身体z"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup",
+			"Name": "身体上下"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup",
+			"Name": "女下身"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup",
+			"Name": "屁股上下"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup",
+			"Name": "小腿"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup",
+			"Name": "脚"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup",
+			"Name": "头z"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "ParamGroup",
+			"Name": "肉x"
+		},
+		{
+			"Id": "Param39",
+			"GroupId": "ParamGroup",
+			"Name": "b开"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup5",
+			"Name": "boobs 2"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup5",
+			"Name": "boobs 3"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup5",
+			"Name": "boobs 4"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup5",
+			"Name": "F hair 1"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup5",
+			"Name": "F hair 2"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup5",
+			"Name": "F hair 3"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup5",
+			"Name": "F hair 4"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "ParamGroup5",
+			"Name": "屁股物理1"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "ParamGroup5",
+			"Name": "屁股物理2"
+		},
+		{
+			"Id": "Param41",
+			"GroupId": "ParamGroup7",
+			"Name": "cum 1"
+		},
+		{
+			"Id": "Param43",
+			"GroupId": "ParamGroup7",
+			"Name": "cum 2"
+		},
+		{
+			"Id": "Param44",
+			"GroupId": "ParamGroup7",
+			"Name": "cum capacity"
+		},
+		{
+			"Id": "Param45",
+			"GroupId": "ParamGroup7",
+			"Name": "cum drop"
+		},
+		{
+			"Id": "Param42",
+			"GroupId": "ParamGroup7",
+			"Name": "dick"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "switches"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "镜头"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "表情"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "动作"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "物理"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "液体"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part23",
+			"Name": "breath.png"
+		},
+		{
+			"Id": "Part22",
+			"Name": "breath 2.png"
+		},
+		{
+			"Id": "guy",
+			"Name": "guy"
+		},
+		{
+			"Id": "cum",
+			"Name": "cum"
+		},
+		{
+			"Id": "Part",
+			"Name": "F leg"
+		},
+		{
+			"Id": "insertion",
+			"Name": "insertion"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Vag basic"
+		},
+		{
+			"Id": "Part4",
+			"Name": "F leg R"
+		},
+		{
+			"Id": "Part5",
+			"Name": "F l arm"
+		},
+		{
+			"Id": "Part6",
+			"Name": "F body"
+		},
+		{
+			"Id": "Part7",
+			"Name": "F Boobs"
+		},
+		{
+			"Id": "Part8",
+			"Name": "F R arm"
+		},
+		{
+			"Id": "Part9",
+			"Name": "F Hair"
+		},
+		{
+			"Id": "FACES",
+			"Name": "FACES"
+		},
+		{
+			"Id": "Part12",
+			"Name": "faces copy"
+		},
+		{
+			"Id": "Head",
+			"Name": "Head"
+		},
+		{
+			"Id": "Part2",
+			"Name": "insertion dick"
+		},
+		{
+			"Id": "Part10",
+			"Name": "Face 1"
+		},
+		{
+			"Id": "Part13",
+			"Name": "表情3"
+		},
+		{
+			"Id": "Part16",
+			"Name": "表情2"
+		},
+		{
+			"Id": "Part19",
+			"Name": "Face 1"
+		},
+		{
+			"Id": "Part11",
+			"Name": "mouth"
+		},
+		{
+			"Id": "eyes",
+			"Name": "eyes"
+		},
+		{
+			"Id": "Part14",
+			"Name": "眼 的複製 2"
+		},
+		{
+			"Id": "Part15",
+			"Name": "資料夾 1"
+		},
+		{
+			"Id": "Part17",
+			"Name": "眼 的複製"
+		},
+		{
+			"Id": "Part18",
+			"Name": "嘴 的複製"
+		},
+		{
+			"Id": "Part20",
+			"Name": "眼"
+		},
+		{
+			"Id": "Part21",
+			"Name": "嘴"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"Param16",
+			"Param23"
+		],
+		[
+			"Param29",
+			"Param30"
+		],
+		[
+			"Param8",
+			"Param10"
+		],
+		[
+			"Param",
+			"Param2"
+		]
+	]
+}

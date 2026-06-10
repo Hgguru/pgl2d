@@ -1,0 +1,83 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "marry_L2D_11.moc3",
+    "Textures": [
+      "marry_L2D_11_00.png",
+      "marry_L2D_11_01.png",
+      "marry_L2D_11_02.png"
+    ],
+    "Physics": "marry_L2D_11.physics3.json",
+    "DisplayInfo": "marry_L2D_11.cdi3.json",
+    "Motions": {
+      "1": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "marry_L2D_11_motions1.motion3.json"
+        }
+      ],
+      "2": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "marry_L2D_11_motions2.motion3.json"
+        }
+      ],
+      "3": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "marry_L2D_11_motions3.motion3.json"
+        }
+      ],
+      "4": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "marry_L2D_11_motions4.motion3.json"
+        }
+      ],
+      "5": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "marry_L2D_11_motions5.motion3.json"
+        }
+      ],
+      "6": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "marry_L2D_11_motions6.motion3.json"
+        }
+      ],
+      "7": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "marry_L2D_11_motions7.motion3.json"
+        }
+      ],
+      "8": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "marry_L2D_11_motions8.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": []
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}

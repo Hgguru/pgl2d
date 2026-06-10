@@ -1,0 +1,345 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup",
+			"Name": "眼珠 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup",
+			"Name": "眼珠 Y"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup",
+			"Name": "嘴　变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup",
+			"Name": "嘴　张开和闭合"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup",
+			"Name": "脸颊泛红"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup",
+			"Name": "gg"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup",
+			"Name": "b切换"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup",
+			"Name": "插"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "ParamGroup",
+			"Name": "j顺序"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup2",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup2",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup2",
+			"Name": "手指"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup2",
+			"Name": "女动作（上）"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup2",
+			"Name": "女动作（下）"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup2",
+			"Name": "b开闭"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup2",
+			"Name": "身体y上"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup2",
+			"Name": "腿子wl"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup2",
+			"Name": "脚"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup2",
+			"Name": "男胯"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup2",
+			"Name": "男上身"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "ParamGroup2",
+			"Name": "jj"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup5",
+			"Name": "jy1"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup5",
+			"Name": "jy2"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup5",
+			"Name": "jy3"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup3",
+			"Name": "腿"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup3",
+			"Name": "肚子wl"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup3",
+			"Name": "胸1"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup3",
+			"Name": "胸2"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup3",
+			"Name": "胸3"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup3",
+			"Name": "tf1"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup3",
+			"Name": "tf2"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup3",
+			"Name": "tf3"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup3",
+			"Name": "dd"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup3",
+			"Name": "dd"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup4",
+			"Name": "镜头大小"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup4",
+			"Name": "位置左右"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup4",
+			"Name": "位置下上"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "表情"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "动作"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "体液"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "物理"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "镜头"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "男"
+		},
+		{
+			"Id": "Part9",
+			"Name": "人物"
+		},
+		{
+			"Id": "Part34",
+			"Name": "背景"
+		},
+		{
+			"Id": "Part2",
+			"Name": "右臂"
+		},
+		{
+			"Id": "Part3",
+			"Name": "组 8"
+		},
+		{
+			"Id": "Part4",
+			"Name": "躯干"
+		},
+		{
+			"Id": "Part6",
+			"Name": "组 9"
+		},
+		{
+			"Id": "Part7",
+			"Name": "右腿"
+		},
+		{
+			"Id": "Part8",
+			"Name": "左腿"
+		},
+		{
+			"Id": "Part10",
+			"Name": "液体"
+		},
+		{
+			"Id": "Part12",
+			"Name": "插入"
+		},
+		{
+			"Id": "Part14",
+			"Name": "下身"
+		},
+		{
+			"Id": "Part15",
+			"Name": "腿"
+		},
+		{
+			"Id": "Part17",
+			"Name": "左前臂"
+		},
+		{
+			"Id": "Part19",
+			"Name": "头"
+		},
+		{
+			"Id": "Part30",
+			"Name": "躯体"
+		},
+		{
+			"Id": "Part33",
+			"Name": "头发后"
+		},
+		{
+			"Id": "Part5",
+			"Name": "左臂"
+		},
+		{
+			"Id": "Part11",
+			"Name": "液体"
+		},
+		{
+			"Id": "Part13",
+			"Name": "男"
+		},
+		{
+			"Id": "Part16",
+			"Name": "手"
+		},
+		{
+			"Id": "Part18",
+			"Name": "组 3"
+		},
+		{
+			"Id": "Part20",
+			"Name": "刘海"
+		},
+		{
+			"Id": "Part21",
+			"Name": "表情3"
+		},
+		{
+			"Id": "Part27",
+			"Name": "表情1"
+		},
+		{
+			"Id": "Part31",
+			"Name": "左胸"
+		},
+		{
+			"Id": "Part32",
+			"Name": "右胸"
+		},
+		{
+			"Id": "Part23",
+			"Name": "嘴"
+		},
+		{
+			"Id": "Part28",
+			"Name": "眼睛"
+		}
+	]
+}

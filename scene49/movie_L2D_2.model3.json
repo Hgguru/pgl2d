@@ -1,0 +1,87 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "movie_L2D_2.moc3",
+    "Textures": [
+      "movie_L2D_2_00.png",
+      "movie_L2D_2_01.png",
+      "movie_L2D_2_02.png"
+    ],
+    "DisplayInfo": "movie_L2D_2.cdi3.json",
+    "Motions": {
+      "1": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_2_motions1.motion3.json"
+        }
+      ],
+      "2": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_2_motions2.motion3.json"
+        }
+      ],
+      "3": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_2_motions3.motion3.json"
+        }
+      ],
+      "4": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_2_motions4.motion3.json"
+        }
+      ],
+      "5": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_2_motions5.motion3.json"
+        }
+      ],
+      "6": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_2_motions6.motion3.json"
+        }
+      ],
+      "7": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_2_motions7.motion3.json"
+        }
+      ],
+      "8": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_2_motions8.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthForm",
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

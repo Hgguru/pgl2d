@@ -1,0 +1,132 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "movie_L2D_6.moc3",
+    "Textures": [
+      "movie_L2D_6_00.png",
+      "movie_L2D_6_01.png",
+      "movie_L2D_6_02.png",
+      "movie_L2D_6_03.png",
+      "movie_L2D_6_04.png",
+      "movie_L2D_6_05.png",
+      "movie_L2D_6_06.png"
+    ],
+    "Physics": "movie_L2D_6.physics3.json",
+    "DisplayInfo": "movie_L2D_6.cdi3.json",
+    "Motions": {
+      "1": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_6_motions1.motion3.json"
+        }
+      ],
+      "2": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_6_motions2.motion3.json"
+        }
+      ],
+      "3": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_6_motions3.motion3.json"
+        }
+      ],
+      "4": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_6_motions4.motion3.json"
+        }
+      ],
+      "5": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_6_motions5.motion3.json"
+        }
+      ],
+      "6": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_6_motions6.motion3.json"
+        }
+      ],
+      "7": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_6_motions7.motion3.json"
+        }
+      ],
+      "8": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_6_motions8.motion3.json"
+        }
+      ],
+      "9": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_6_motions9.motion3.json"
+        }
+      ],
+      "10": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_6_motions10.motion3.json"
+        }
+      ],
+      "11": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_6_motions11.motion3.json"
+        }
+      ],
+      "12": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_6_motions12.motion3.json"
+        }
+      ],
+      "13": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_6_motions13.motion3.json"
+        }
+      ],
+      "14": [
+        {
+          "FadeInTime": 0,
+          "FadeOutTime": 0,
+          "File": "movie_L2D_6_motions14.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    },
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "Param26",
+        "Param27"
+      ]
+    }
+  ]
+}
