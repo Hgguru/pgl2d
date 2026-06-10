@@ -1,0 +1,443 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup",
+			"Name": "Scale"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup",
+			"Name": "Position X"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup",
+			"Name": "Position Y"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup6",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup6",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "ParamGroup6",
+			"Name": "Highlights"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup6",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup6",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup6",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup6",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup6",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup6",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup6",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup6",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup6",
+			"Name": "BrowL Form"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup6",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup6",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup6",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "ParamGroup6",
+			"Name": "Ahegao"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup6",
+			"Name": "Blush"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup2",
+			"Name": "Upper Movement"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup2",
+			"Name": "Torso Z"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup2",
+			"Name": "Torso X"
+		},
+		{
+			"Id": "Param36",
+			"GroupId": "ParamGroup2",
+			"Name": "Torso Y"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup2",
+			"Name": "Lower moveX"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup2",
+			"Name": "Lower moveY"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup2",
+			"Name": "Boobs1"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup2",
+			"Name": "Boobs2"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup2",
+			"Name": "Boobs3"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup2",
+			"Name": "Wiggle1"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup2",
+			"Name": "Wiggle X1"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup2",
+			"Name": "Wiggle X2"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup2",
+			"Name": "Wiggle Y"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup2",
+			"Name": "Wiggle Y2"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup3",
+			"Name": "Thrust"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup3",
+			"Name": "Male X"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup3",
+			"Name": "Male Y"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "ParamGroup3",
+			"Name": "Balls"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "ParamGroup3",
+			"Name": "Penis Rot"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup4",
+			"Name": "Hair1"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup4",
+			"Name": "Hair2"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup4",
+			"Name": "Hair3"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup4",
+			"Name": "Hair Stretch"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup5",
+			"Name": "L OC"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "ParamGroup5",
+			"Name": "R OC"
+		},
+		{
+			"Id": "ParamMosaic",
+			"GroupId": "ParamGroup7",
+			"Name": "Mosaic"
+		},
+		{
+			"Id": "Param8switch",
+			"GroupId": "ParamGroup7",
+			"Name": "Switch"
+		},
+		{
+			"Id": "ParamCum",
+			"GroupId": "ParamGroup7",
+			"Name": "Main Cum"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup7",
+			"Name": "Cum"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Camera"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "Face"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "Female"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "Male"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "Hair"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "Hand"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "Toggle"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part46",
+			"Name": "065_3H.psd (Corresponding layer not found)"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Group 1"
+		},
+		{
+			"Id": "Part24",
+			"Name": "Group 1"
+		},
+		{
+			"Id": "Male",
+			"Name": "Male"
+		},
+		{
+			"Id": "Female",
+			"Name": "Female"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Front hairs"
+		},
+		{
+			"Id": "Part5",
+			"Name": "All Emotion"
+		},
+		{
+			"Id": "Emotion1",
+			"Name": "Emotion1"
+		},
+		{
+			"Id": "Emotion2",
+			"Name": "Emotion2"
+		},
+		{
+			"Id": "Emotion3",
+			"Name": "Emotion3"
+		},
+		{
+			"Id": "Part17",
+			"Name": "F hand 1"
+		},
+		{
+			"Id": "Cum",
+			"Name": "Cum"
+		},
+		{
+			"Id": "Part18",
+			"Name": "R leg"
+		},
+		{
+			"Id": "Boobs",
+			"Name": "Boobs"
+		},
+		{
+			"Id": "Part19",
+			"Name": "F Hand 2"
+		},
+		{
+			"Id": "Torso",
+			"Name": "Torso"
+		},
+		{
+			"Id": "Part20",
+			"Name": "Close Vagayy"
+		},
+		{
+			"Id": "Part21",
+			"Name": "Open Vagayy"
+		},
+		{
+			"Id": "Bhair",
+			"Name": "Bhair"
+		},
+		{
+			"Id": "Part44",
+			"Name": "Close Vagayy"
+		},
+		{
+			"Id": "Part45",
+			"Name": "Open Vagayy"
+		},
+		{
+			"Id": "Part3",
+			"Name": "M Legs"
+		},
+		{
+			"Id": "Part6",
+			"Name": "R eye"
+		},
+		{
+			"Id": "Part7",
+			"Name": "L eye"
+		},
+		{
+			"Id": "Close",
+			"Name": "Close"
+		},
+		{
+			"Id": "Open",
+			"Name": "Open"
+		},
+		{
+			"Id": "Part8",
+			"Name": "右眼"
+		},
+		{
+			"Id": "Part9",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part10",
+			"Name": "資料夾 1"
+		},
+		{
+			"Id": "Part11",
+			"Name": "右眼 的複製"
+		},
+		{
+			"Id": "Part12",
+			"Name": "左眼 的複製"
+		},
+		{
+			"Id": "Part13",
+			"Name": "資料夾 3 copy"
+		},
+		{
+			"Id": "Part14",
+			"Name": "資料夾 3"
+		},
+		{
+			"Id": "Part15",
+			"Name": "右眼 的複製 2"
+		},
+		{
+			"Id": "Part16",
+			"Name": "左眼 的複製 2"
+		},
+		{
+			"Id": "Insert",
+			"Name": "Insert"
+		},
+		{
+			"Id": "Insert2",
+			"Name": "Insert"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		]
+	]
+}
